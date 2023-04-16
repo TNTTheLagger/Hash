@@ -11,7 +11,9 @@ namespace Hash
             Node node = new Node("mySharedSecret", 12345);
 
             // Connect to an existing node in the network
-            node.Connect("192.168.1.100");
+            Console.Write("Connect to IP: ");
+            String ip = Console.ReadLine();
+            node.Connect(ip);
 
             // Store a variable in the network
             node.Store("myVar", "Hello, world!");
