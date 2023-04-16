@@ -1,0 +1,7 @@
+C:\Users\TNT\RiderProjects\Hash\Hash\bin\Debug\Hash.exe
+C:\Users\TNT\RiderProjects\Hash\Hash\bin\Debug\Hash.pdb
+C:\Users\TNT\RiderProjects\Hash\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+C:\Users\TNT\RiderProjects\Hash\Hash\obj\Debug\Hash.csproj.SuggestedBindingRedirects.cache
+C:\Users\TNT\RiderProjects\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\TNT\RiderProjects\Hash\Hash\obj\Debug\Hash.exe
+C:\Users\TNT\RiderProjects\Hash\Hash\obj\Debug\Hash.pdb
